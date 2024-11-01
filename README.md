@@ -2,6 +2,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LuizFelipePSilva.LuizFelipePSilva&left_color=darkviolet&right_color=darkblue"  />
+</div>
+
+###
+
 <p align="left">- BackEnd Developer 💻<br>- Bachelor's Computer Science 📚<br>- Hobbies: training, listening to music, studying and playing 🙂</p>
 
 ###
@@ -58,6 +66,10 @@
 
 ###
 
+<h2 align="left">Social Media</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/luizfelipepsilva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -68,18 +80,6 @@
   <a href="LuizFelipeP.S@outlook.com.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LuizFelipePSilva.LuizFelipePSilva&left_color=cornflowerblue&right_color=antiquewhite"  />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LuizFelipePSilva/count.svg?"  />
 </div>
 
 ###
