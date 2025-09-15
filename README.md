@@ -1,85 +1,88 @@
-<h1 align="left">ABOUT ME</h1>
+<h1 align="left">👨‍💻 Luiz Felipe</h1>
 
-###
+<p align="left">
+  Backend Developer | Scalable & High-Performance Solutions | Clean Code Enthusiast
+</p>
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LuizFelipePSilva.LuizFelipePSilva&left_color=darkviolet&right_color=darkblue"  />
-</div>
+<h2 align="left">📌 About Me</h2>
 
-###
+<p align="left">
+  Backend developer focused on building robust APIs with Node.js and TypeScript.  
+  Strong emphasis on performance optimization, scalability, and Clean Architecture practices.  
+  Experienced in cloud deployments, containerization, and database management.  
+</p>
 
-<p align="left">- BackEnd Developer 💻<br>- Bachelor's Computer Science 📚<br>- Hobbies: training, listening to music, studying and playing 🙂</p>
+---
 
-###
+<h2 align="left">💼 Experience</h2>
 
-<h2 align="left">Techs</h2>
+- **Freelancer – Junior Fullstack Engineer** (Mar 2025 – Present)  
+  • Developed scalable food sector platform (Angular, Node.js, TypeScript)  
+  • Optimized APIs on AWS with Redis caching (−40% response time)  
+  • Built Docker container architecture for consistent deployments  
+  • Strengthened backend security with automated tests  
 
-###
+- **Compass UOL – Intern** (Sep 2024 – Feb 2025)  
+  • Designed REST APIs with Node.js/TypeScript, Clean Architecture & DDD (+40% maintainability)  
+  • Created CI/CD pipelines with GitHub Actions & AWS EC2 deployments  
+  • Managed PostgreSQL/MySQL databases & Docker environments  
+  • Scrum Master for dealership management system  
 
-<br clear="both">
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+<h2 align="left">🎓 Education</h2>
 
-###
+- **Federal Rural University of the Semi-Arid Region** (2024 – 2027)  
+  Bachelor’s in Computer Science  
 
-<h2 align="left">Stats</h2>
+---
 
-###
+<h2 align="left">📜 Certifications</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFelipePSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=LuizFelipePSilva&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizFelipePSilva&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+- AWS Cloud Practitioner (CLF-C02) – Feb 2025  
 
-###
+---
 
-<h2 align="left">Social Media</h2>
-
-###
+<h2 align="left">⚡ Tech Stack</h2>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+</div>
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizFelipePSilva&layout=compact&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LuizFelipePSilva&theme=dracula&no-frame=false&margin-w=8&margin-h=8" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizFelipePSilva&theme=github-dark&area=true&radius=16" height="300" />
+</div>
+
+---
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+<div align="left">
+  <a href="mailto:Luizfelipep.s@outlook.com.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="outlook" />
+  </a>
+  <a href="https://github.com/LuizFelipePSilva" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github" />
+  </a>
   <a href="https://www.linkedin.com/in/luizfelipepsilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_luizfelipees/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="LuizFelipeP.S@outlook.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
 </div>
-
-###
