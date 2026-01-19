@@ -1,10 +1,10 @@
-# Olá, eu sou Luiz Felipe! 👋
+# Hello, I'm Luiz Felipe! 👋
 
-### 🚀 Backend Software Engineer | Estudante de Ciência da Computação @ UFERSA
+### 🚀 Backend Software Engineer | Computer Science Student @ UFERSA
 
-Sou um desenvolvedor focado na construção de **APIs escaláveis**, sistemas distribuídos e infraestrutura em nuvem. Transformo regras de negócio complexas em código limpo, performático e seguro.
+I am a developer focused on building **scalable APIs**, distributed systems, and cloud infrastructure. I transform complex business rules into clean, performant, and secure code.
 
-Atualmente, estou me aprofundando em **Microsserviços** e soluções **Cloud (AWS)**.
+Currently, I am diving deep into **Microservices** and **Cloud (AWS)** solutions.
 
 ---
 
@@ -21,12 +21,12 @@ Atualmente, estou me aprofundando em **Microsserviços** e soluções **Cloud (A
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Banco de Dados & ORM**
+**Databases & ORM**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0C2C.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 
-**Conceitos & Ferramentas**
+**Concepts & Tools**
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Arch-000000?style=for-the-badge&logoColor=white)
@@ -34,40 +34,40 @@ Atualmente, estou me aprofundando em **Microsserviços** e soluções **Cloud (A
 
 ---
 
-### 💼 Experiência Profissional
+### 💼 Professional Experience
 
-- **Backend Developer (Bolsista CNPq) @ Plataforma Greenfy** *(Set 2025 - Atualmente)*
-  - Modernização de plataforma para piscicultura de precisão utilizando **NestJS**.
-  - Desenvolvimento de ingestão de dados IoT em tempo real via **MQTT**.
+- **Backend Developer (CNPq Scholar) @ Greenfy Platform** *(Sept 2025 - Present)*
+  - Modernizing a precision fish farming management platform using **NestJS**.
+  - Developing real-time IoT data ingestion modules via **MQTT**.
   
-- **Software Engineer (Freelance)** *(Mar 2025 - Atualmente)*
-  - Implementação de cache com **Redis** (redução de 40% na latência).
-  - Criação de ambientes padronizados com **Docker**.
+- **Software Engineer (Freelance)** *(Mar 2025 - Present)*
+  - Implemented **Redis** caching strategies (reducing latency by 40%).
+  - Created standardized development environments using **Docker**.
 
-- **Estagiário de Backend @ Compass UOL** *(Set 2024 - Fev 2025)*
-  - Desenvolvimento de APIs RESTful com **Clean Architecture** e **AWS EC2**.
-  - Configuração de pipelines de CI/CD (GitHub Actions) e testes automatizados.
+- **Backend Intern @ Compass UOL** *(Sept 2024 - Feb 2025)*
+  - Developed RESTful APIs applying **Clean Architecture** and **DDD** principles.
+  - Configured CI/CD pipelines (GitHub Actions) for automated deployment to **AWS EC2**.
 
 ---
 
-### 🏆 Projetos em Destaque
+### 🏆 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🍽️ SaborSync</h3>
-      <p align="center">Sistema de gerenciamento de pedidos e cardápios em tempo real com foco em alta disponibilidade.</p>
+      <p align="center">Real-time order and menu management system focused on high availability.</p>
       <p align="center">
         <strong>Tech:</strong> Node.js, TypeScript, Redis, TypeORM, Docker.<br/>
-        <strong>Destaque:</strong> Rate Limiting e Otimização de Queries.
+        <strong>Highlights:</strong> Rate Limiting & SQL Query Optimization.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🚗 API Gestão de Concessionária</h3>
-      <p align="center">API modular para gestão de frotas com upload de arquivos em nuvem.</p>
+      <h3 align="center">🚗 Fleet Management API</h3>
+      <p align="center">Modular API for dealership fleet management with cloud file uploads.</p>
       <p align="center">
         <strong>Tech:</strong> TypeScript, AWS S3, Jest, Clean Arch.<br/>
-        <strong>Destaque:</strong> Arquitetura em camadas e cobertura de testes.
+        <strong>Highlights:</strong> Layered Architecture & Test Coverage.
       </p>
     </td>
   </tr>
@@ -75,9 +75,9 @@ Atualmente, estou me aprofundando em **Microsserviços** e soluções **Cloud (A
 
 ---
 
-### 🎓 Certificações
+### 🎓 Certifications
 
-* [cite_start]**AWS Cloud Practitioner (CLF-C02)** - Amazon Web Services 
+* **AWS Cloud Practitioner (CLF-C02)** - Amazon Web Services
 
 ---
 
@@ -90,7 +90,7 @@ Atualmente, estou me aprofundando em **Microsserviços** e soluções **Cloud (A
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luizfelipepsilva" target="_blank">
