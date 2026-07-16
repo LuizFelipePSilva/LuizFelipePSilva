@@ -45,8 +45,8 @@ Currently, I am diving deep into **AI-powered backend systems**, building produc
 
 ### 💼 Professional Experience
 
-- **Backend Developer (CNPq Scholar) @ BLUDOCC** *(Sept 2025 - Present)*
-  - Building/maintaining **BLUDOCC**, an aquaculture management platform for fish and shrimp farms, centralizing operational, production, financial, and environmental control across the full production cycle (stocking to harvest).
+- **Backend Developer (CNPq Scholar)** *(Sept 2025 - Present)*
+  - Building/maintaining, an aquaculture management platform for fish and shrimp farms, centralizing operational, production, financial, and environmental control across the full production cycle (stocking to harvest).
   - Refactored a legacy codebase into a modular **NestJS** architecture.
   - Real-time **IoT** ingestion pipeline via **MQTT** with transactional consistency in **PostgreSQL**.
   - Conversational agent with the **OpenAI API** using function calling (tools) for sensor data queries, with domain-restricted responses to prevent hallucination.
@@ -70,14 +70,6 @@ Currently, I am diving deep into **AI-powered backend systems**, building produc
 
 <table>
   <tr>
-    <td width="33%">
-      <h3 align="center">🐟 BLUDOCC</h3>
-      <p align="center">Aquaculture management platform for fish/shrimp farms — full production cycle control.</p>
-      <p align="center">
-        <strong>Tech:</strong> NestJS, OpenAI API, MQTT, PostgreSQL.<br/>
-        <strong>Highlights:</strong> Function Calling, Prompt Injection Hardening & Real-Time IoT Alerts.
-      </p>
-    </td>
     <td width="33%">
       <h3 align="center">🍽️ SaborSync</h3>
       <p align="center">Founder & Tech Lead — SaaS for food service management (alpha stage).</p>
