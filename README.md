@@ -16,6 +16,7 @@ Currently, I am diving deep into **AI-powered backend systems**, building produc
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **AI & LLM**
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -44,16 +45,19 @@ Currently, I am diving deep into **AI-powered backend systems**, building produc
 
 ### 💼 Professional Experience
 
-- **Backend Developer (CNPq Scholar)** *(Sept 2025 - Present)*
-  - Refactored legacy code into a modular **NestJS** architecture.
-  - Built a real-time **IoT** ingestion pipeline via **MQTT** with transactional consistency in **PostgreSQL**.
-  - Built a conversational agent with the **OpenAI API** using function calling (tools) for sensor data queries, with domain-restricted responses to prevent hallucination.
-  - Implemented an intelligent alerting system and real-time sensor data monitoring.
+- **Backend Developer (CNPq Scholar) @ BLUDOCC** *(Sept 2025 - Present)*
+  - Building/maintaining **BLUDOCC**, an aquaculture management platform for fish and shrimp farms, centralizing operational, production, financial, and environmental control across the full production cycle (stocking to harvest).
+  - Refactored a legacy codebase into a modular **NestJS** architecture.
+  - Real-time **IoT** ingestion pipeline via **MQTT** with transactional consistency in **PostgreSQL**.
+  - Conversational agent with the **OpenAI API** using function calling (tools) for sensor data queries, with domain-restricted responses to prevent hallucination.
+  - Security testing against prompt injection on the agent.
+  - Intelligent alert system: sensor anomaly → LLM generates a diagnosis → automatic email + push notification to producers.
+  - Real-time sensor data monitoring and visualization.
 
 - **Junior Fullstack Engineer (Freelance)** *(Mar 2025 - Present)*
   - Founder & Tech Lead of **SaborSync**, a SaaS for food service management (restaurants, bars, cafés) — currently in alpha.
   - Backend architecture with **NestJS**, **Clean Architecture** and **DDD**; distributed cache with **Redis** cutting latency by 40%.
-  - Docker-based container architecture for consistent deploys across environments.
+  - **AWS** infrastructure (EC2, S3, Lambda) with CI/CD via **GitHub Actions**.
 
 - **Backend Intern @ Compass UOL** *(Sept 2024 - Feb 2025)*
   - Developed RESTful APIs with **Node.js/TypeScript** applying **Clean Architecture** and **DDD**, improving maintainability by 40%.
@@ -67,11 +71,11 @@ Currently, I am diving deep into **AI-powered backend systems**, building produc
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center">🤖 IoT Conversational Agent</h3>
-      <p align="center">OpenAI-powered agent for querying real-time sensor data via function calling.</p>
+      <h3 align="center">🐟 BLUDOCC</h3>
+      <p align="center">Aquaculture management platform for fish/shrimp farms — full production cycle control.</p>
       <p align="center">
         <strong>Tech:</strong> NestJS, OpenAI API, MQTT, PostgreSQL.<br/>
-        <strong>Highlights:</strong> Function Calling & Prompt Injection Hardening.
+        <strong>Highlights:</strong> Function Calling, Prompt Injection Hardening & Real-Time IoT Alerts.
       </p>
     </td>
     <td width="33%">
@@ -104,8 +108,8 @@ Currently, I am diving deep into **AI-powered backend systems**, building produc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipePSIlva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipePSIlva&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipePSilva&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipePSilva&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
