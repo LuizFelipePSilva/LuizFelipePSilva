@@ -19,27 +19,27 @@
 
       
       <rect x="25" y="55"
-            width="214.20277550121952" height="9"
+            width="213.23538235186703" height="9"
             fill="#3178c6" />
     
-      <rect x="239.20277550121952" y="55"
-            width="136.76253106109888" height="9"
+      <rect x="238.23538235186703" y="55"
+            width="136.14487736671032" height="9"
             fill="#f1e05a" />
     
-      <rect x="375.9653065623184" y="55"
-            width="68.6685442539997" height="9"
+      <rect x="374.38025971857735" y="55"
+            width="68.35841998445237" height="9"
             fill="#e34c26" />
     
-      <rect x="444.6338508163181" y="55"
-            width="21.092046982921556" height="9"
+      <rect x="442.73867970302973" y="55"
+            width="23.119427241755318" height="9"
             fill="#563d7c" />
     
-      <rect x="465.72589779923965" y="55"
-            width="16.80441973314151" height="9"
+      <rect x="465.85810694478505" y="55"
+            width="16.728526783152205" height="9"
             fill="#3572A5" />
     
-      <rect x="482.53031753238116" y="55"
-            width="12.469682467618824" height="9"
+      <rect x="482.5866337279373" y="55"
+            width="12.413366272062776" height="9"
             fill="#89e051" />
     
       
@@ -54,7 +54,7 @@
       <text x="245" y="95"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        45.6%
+        45.4%
       </text>
     
       <circle cx="270" cy="91"
@@ -68,7 +68,7 @@
       <text x="490" y="95"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        29.1%
+        29.0%
       </text>
     
       <circle cx="25" cy="114"
@@ -82,7 +82,7 @@
       <text x="245" y="118"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        14.6%
+        14.5%
       </text>
     
       <circle cx="270" cy="114"
@@ -96,7 +96,7 @@
       <text x="490" y="118"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        4.5%
+        4.9%
       </text>
     
       <circle cx="25" cy="137"
@@ -124,7 +124,7 @@
       <text x="490" y="141"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        2.7%
+        2.6%
       </text>
     
     </svg>
