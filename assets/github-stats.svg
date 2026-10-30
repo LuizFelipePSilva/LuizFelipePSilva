@@ -1,0 +1,57 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg"
+         width="520" height="165" viewBox="0 0 520 165"
+         role="img">
+      <title>GitHub statistics for LuizFelipePSilva</title>
+
+      <style>
+        .title {
+          fill: #70a5fd;
+          font: 600 16px sans-serif;
+        }
+        .value {
+          fill: #ffffff;
+          font: 700 27px sans-serif;
+        }
+        .label {
+          fill: #8b949e;
+          font: 11px sans-serif;
+        }
+      </style>
+
+      <rect width="520" height="165" rx="12"
+            fill="#161b22" stroke="#30363d"/>
+
+      <text x="25" y="35" class="title">
+        GitHub Statistics
+      </text>
+
+      
+      <text x="25" y="85" class="value">
+        20
+      </text>
+      <text x="25" y="110" class="label">
+        PUBLIC REPOSITORIES
+      </text>
+    
+      <text x="190" y="85" class="value">
+        3
+      </text>
+      <text x="190" y="110" class="label">
+        TOTAL STARS
+      </text>
+    
+      <text x="355" y="85" class="value">
+        0
+      </text>
+      <text x="355" y="110" class="label">
+        TOTAL FORKS
+      </text>
+    
+
+      <text x="25" y="145"
+            fill="#8b949e" font-size="10">
+        github.com/LuizFelipePSilva
+      </text>
+    </svg>
+  

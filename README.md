@@ -116,6 +116,7 @@ I enjoy turning complex business requirements into maintainable solutions, optim
 A management platform designed for restaurants, bars, and cafés.
 
 **Engineering highlights**
+
 - Multi-tenant architecture
 - Clean Architecture & DDD
 - Redis distributed caching
@@ -136,6 +137,7 @@ A management platform designed for restaurants, bars, and cafés.
 An IoT platform for monitoring aquaculture production and environmental conditions.
 
 **Engineering highlights**
+
 - MQTT sensor ingestion
 - Real-time anomaly detection
 - AI agents with RAG
@@ -187,14 +189,17 @@ An IoT platform for monitoring aquaculture production and environmental conditio
 ## `> ./github-stats.sh`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuizFelipePSilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipePSilva&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="./assets/github-stats.svg"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./assets/top-languages.svg"
+    width="49%"
+    alt="Top Languages"
+  />
 </p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuizFelipePSilva&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## `> cat education.log`
