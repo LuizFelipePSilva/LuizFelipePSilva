@@ -19,27 +19,27 @@
 
       
       <rect x="25" y="55"
-            width="213.23538235186703" height="9"
+            width="211.43672125380562" height="9"
             fill="#3178c6" />
     
-      <rect x="238.23538235186703" y="55"
-            width="136.14487736671032" height="9"
+      <rect x="236.43672125380562" y="55"
+            width="134.99648214299572" height="9"
             fill="#f1e05a" />
     
-      <rect x="374.38025971857735" y="55"
-            width="68.35841998445237" height="9"
+      <rect x="371.43320339680133" y="55"
+            width="67.78181009262828" height="9"
             fill="#e34c26" />
     
-      <rect x="442.73867970302973" y="55"
-            width="23.119427241755318" height="9"
+      <rect x="439.2150134894296" y="55"
+            width="22.924412634279964" height="9"
             fill="#563d7c" />
     
-      <rect x="465.85810694478505" y="55"
-            width="16.728526783152205" height="9"
+      <rect x="462.1394261237096" y="55"
+            width="16.58742003988629" height="9"
             fill="#3572A5" />
     
-      <rect x="482.5866337279373" y="55"
-            width="12.413366272062776" height="9"
+      <rect x="478.7268461635959" y="55"
+            width="16.27315383640413" height="9"
             fill="#89e051" />
     
       
@@ -54,7 +54,7 @@
       <text x="245" y="95"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        45.4%
+        45.0%
       </text>
     
       <circle cx="270" cy="91"
@@ -68,7 +68,7 @@
       <text x="490" y="95"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        29.0%
+        28.7%
       </text>
     
       <circle cx="25" cy="114"
@@ -82,7 +82,7 @@
       <text x="245" y="118"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        14.5%
+        14.4%
       </text>
     
       <circle cx="270" cy="114"
@@ -110,7 +110,7 @@
       <text x="245" y="141"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        3.6%
+        3.5%
       </text>
     
       <circle cx="270" cy="137"
@@ -118,13 +118,13 @@
 
       <text x="282" y="141"
             fill="#c9d1d9" font-size="12">
-        Lua
+        Python
       </text>
 
       <text x="490" y="141"
             text-anchor="end"
             fill="#8b949e" font-size="11">
-        2.6%
+        3.5%
       </text>
     
     </svg>
