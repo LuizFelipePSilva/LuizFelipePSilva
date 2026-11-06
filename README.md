@@ -186,22 +186,6 @@ An IoT platform for monitoring aquaculture production and environmental conditio
 
 ---
 
-## `> ./github-stats.sh`
-
-<p align="center">
-  <img
-    src="./assets/github-stats.svg"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="./assets/top-languages.svg"
-    width="49%"
-    alt="Top Languages"
-  />
-</p>
----
-
 ## `> cat education.log`
 
 **Federal Rural University of the Semi-Arid Region (UFERSA)**
